@@ -1,0 +1,14 @@
+C:\Project\exercises\bin\Debug\net8.0\exercises.exe
+C:\Project\exercises\bin\Debug\net8.0\exercises.deps.json
+C:\Project\exercises\bin\Debug\net8.0\exercises.runtimeconfig.json
+C:\Project\exercises\bin\Debug\net8.0\exercises.dll
+C:\Project\exercises\bin\Debug\net8.0\exercises.pdb
+C:\Project\exercises\obj\Debug\net8.0\exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\exercises\obj\Debug\net8.0\exercises.AssemblyInfoInputs.cache
+C:\Project\exercises\obj\Debug\net8.0\exercises.AssemblyInfo.cs
+C:\Project\exercises\obj\Debug\net8.0\exercises.csproj.CoreCompileInputs.cache
+C:\Project\exercises\obj\Debug\net8.0\exercises.dll
+C:\Project\exercises\obj\Debug\net8.0\refint\exercises.dll
+C:\Project\exercises\obj\Debug\net8.0\exercises.pdb
+C:\Project\exercises\obj\Debug\net8.0\exercises.genruntimeconfig.cache
+C:\Project\exercises\obj\Debug\net8.0\ref\exercises.dll
